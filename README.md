@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Interested in Blockchain, Cyber Security and Decentralized Application Development.
-Love to do Problem solving, Travelling, Eating, Playing games and spend quality time with friends.
+Love to do Problem solving, Travelling, Eating, Playing games and spending quality time with friends.
